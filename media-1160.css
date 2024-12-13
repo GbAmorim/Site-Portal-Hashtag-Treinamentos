@@ -1,0 +1,19 @@
+@media all and (max-width: 72.5em) {
+  html {
+    font-size: 56.25%;
+  }
+
+  /* Conteúdos Gratuitos */
+  /* .img-conteudos {
+    max-width: 35vw;
+  }
+  /* O que falam */
+  .container-oquefalam {
+    margin: 0 8.6rem;
+  }
+
+  /* Footer */
+  .container-rodape {
+    width: 100%;
+  }
+}
